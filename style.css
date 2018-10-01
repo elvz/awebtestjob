@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.caption {
+    text-align: left;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr, td {
+    padding: 10px;
+}
+
+a {
+    padding-left: 25px;
+}
+
+.mainimg {
+    float: left;
+}
+
+figcaption {
+    display: inline-block;
+}
+
+h4 {
+    text-align: center;
+}
